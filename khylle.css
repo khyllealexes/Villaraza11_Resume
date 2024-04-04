@@ -1,0 +1,30 @@
+
+body{
+   
+    background-image: url(e6aa2aa702f04d86a700ecdadc1c1660.jpg);
+    margin: 40px;
+    
+
+}
+.img1{
+    position: relative;
+    left: 57px; 
+    padding-top:10%;
+}
+ 
+.container{
+    position: relative;
+    left:40%;
+    height:100%;
+    width: 40%;
+
+
+}
+.header{
+    background-color: skyblue;
+    gap: 30px;
+}
+
+
+
+
